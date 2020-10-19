@@ -25,6 +25,6 @@ Petra Kastl ist Lehrerin für die Fächer Informatik, Mathematik und Physik. Von
 
 
 ### Weiterführende Links
-- Buch [Agile Schule](
+- [Buch Agile Schule](https://www.hep-verlag.de/shop/item/97830355-1053-9/agile-schule-von-peter-kastl-brichzin-broschur)
 - https://agilemanifesto.org
-- 
+- [Unterlagen zum Lernfeld 12 Kaufleute E-Commerce auf der ISB-Seite](http://www.isb.bayern.de/berufliche-schulen/materialien/e-commerce/lf12/)
