@@ -21,7 +21,8 @@ Die Fortbildungsveranstaltung gibt eine Einführung in agile Projektarbeit. Dazu
 
 Petra Kastl ist Lehrerin für die Fächer Informatik, Mathematik und Physik. Von 1995 bis 2005 entwickelte sie Software in Großprojekten in der IT. Seit 2013 begleitet sie das Projekt "Agile Methoden für den Informatikunterricht" wissenschaftlich. Die enge Zusammenarbeit von Lehrkräften und Forschern ist ihr dabei ein besonderes Anliegen, damit in einem gemeinsamen Prozess Ergebnisse für die Theorie und die Praxis entstehen.
 
-
+### Download der Materialien
+- [Unterlagen herunterladen (Kennwort erforderlich - Link gültig bis 31.12.2020)](https://cloud.fitforecommerce.eu/index.php/s/pEW3T2NEIN9JRDA)
 
 
 ### Weiterführende Links
