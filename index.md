@@ -17,3 +17,4 @@ Im Rahmen der Abschlussveranstaltung stellen die Teilnehmer kurz ihre Projekterg
 
 
 ### Weiterführende Links
+- https://agilemanifesto.org
