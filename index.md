@@ -32,3 +32,4 @@ Petra Kastl ist Lehrerin für die Fächer Informatik, Mathematik und Physik. Von
 
 - [Was ist eine User Story? - Video bei Youtube](https://youtu.be/K0qZNqxsps0)
 - [Planning Poker - Video bei Youtube](https://youtu.be/DJwuvO3jFa4)
+- [Artikel bei heise.de: Agile Entwicklung: Gutes Schätzen geht auch remote](https://www.heise.de/hintergrund/Agile-Entwicklung-Gutes-Schaetzen-geht-auch-remote-4946004.html?wt_mc=nl.red.developer.developer-nl.2020-11-05.link.link)
